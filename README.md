@@ -1,15 +1,6 @@
 [![DDraceNetwork](https://ddnet.org/ddnet-small.png)](https://ddnet.org) [![](https://github.com/ddnet/ddnet/workflows/Build/badge.svg)](https://github.com/ddnet/ddnet/actions?query=workflow%3ABuild+event%3Apush+branch%3Amaster) [![](https://codecov.io/gh/ddnet/ddnet/branch/master/graph/badge.svg)](https://codecov.io/gh/ddnet/ddnet/branch/master)
 
-Our own flavor of DDRace, a Teeworlds mod. See the [website](https://ddnet.org) for more information.
-
-Development discussions happen on #ddnet on Quakenet ([Webchat](http://webchat.quakenet.org/?channels=ddnet&uio=d4)) or on [Discord in the developer channel](https://discord.gg/xsEd9xu).
-
-You can get binary releases on the [DDNet website](https://ddnet.org/downloads/), find it on [Steam](https://store.steampowered.com/app/412220/DDraceNetwork/) or [install from repository](#installation-from-repository).
-
-- [Code Browser](https://ddnet.org/codebrowser/DDNet/)
-- [Source Code Documentation](https://codedoc.ddnet.org/) (very incomplete, only a few items are documented)
-
-If you want to learn about the source code, you can check the [Development](https://wiki.ddnet.org/wiki/Development) article on the wiki.
+BetterGores, modded DDNet server
 
 Cloning
 -------
